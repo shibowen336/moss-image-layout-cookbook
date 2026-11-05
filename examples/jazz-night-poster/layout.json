@@ -1,0 +1,56 @@
+{
+  "summary": {
+    "meta": [
+      "poster"
+    ],
+    "canvas": "single",
+    "caption": "A bold mid-century modern jazz concert poster on a deep navy background with flat cut-paper shapes in mustard yellow, coral and cream."
+  },
+  "items": [
+    {
+      "label": "text",
+      "caption": "Huge cream condensed uppercase title.",
+      "text": "JAZZ NIGHT",
+      "bbox": [
+        -576,
+        -320,
+        -352,
+        320
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "A flat cut-paper illustration of a saxophone and a double bass with curving abstract shapes.",
+      "bbox": [
+        -304,
+        -304,
+        320,
+        304
+      ]
+    },
+    {
+      "label": "text",
+      "caption": "Medium mustard yellow sans-serif line.",
+      "text": "Friday at The Blue Room",
+      "bbox": [
+        384,
+        -304,
+        464,
+        304
+      ]
+    },
+    {
+      "label": "text",
+      "caption": "Small cream sans-serif line.",
+      "text": "Doors open 8 PM",
+      "bbox": [
+        496,
+        -192,
+        560,
+        192
+      ]
+    }
+  ],
+  "bbox_coord_space": "abs_centralized",
+  "bbox_format": "yxyx"
+}

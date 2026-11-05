@@ -1,0 +1,45 @@
+{
+  "summary": {
+    "meta": [
+      "t-shirt graphic"
+    ],
+    "canvas": "single",
+    "caption": "A vintage screen-print t-shirt badge design on a plain black background, with distressed cream, orange and teal ink."
+  },
+  "items": [
+    {
+      "label": "text",
+      "caption": "Bold cream distressed uppercase title in a slab serif.",
+      "text": "RIDE FREE",
+      "bbox": [
+        -416,
+        -336,
+        -224,
+        336
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "A vintage motorcycle with a plain fuel tank and no logos or emblems, in front of a setting sun and desert mountains.",
+      "bbox": [
+        -192,
+        -320,
+        256,
+        320
+      ]
+    },
+    {
+      "label": "text",
+      "caption": "Small orange uppercase sans-serif line.",
+      "text": "Open road club",
+      "bbox": [
+        288,
+        -224,
+        352,
+        224
+      ]
+    }
+  ],
+  "bbox_coord_space": "abs_centralized",
+  "bbox_format": "yxyx"
+}

@@ -1,0 +1,8 @@
+{
+  "width": 1024,
+  "height": 1024,
+  "seed": 1108,
+  "num_inference_steps": 50,
+  "guidance_scale": 3,
+  "enable_prompt_expansion": false
+}
